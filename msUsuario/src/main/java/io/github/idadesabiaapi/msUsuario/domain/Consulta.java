@@ -1,9 +1,10 @@
 package io.github.idadesabiaapi.msUsuario.domain;
 
 
+import jakarta.persistence.*;
 import lombok.Data;
 
-import javax.persistence.*;
+
 import java.time.LocalDate;
 
 @Entity
